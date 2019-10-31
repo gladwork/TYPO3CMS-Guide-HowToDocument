@@ -14,5 +14,5 @@ We keep that until something else may be decided somewhere in the future.
 
 New manuals should use a **Creative Commons license**:
 
-**License:** `CC BY-NC-SA 4.0 <https://creativecommons.org/licenses/by-nc-sa/4.0/>`__ (Creative Commons)
+**License:** `CC BY 4.0 <https://creativecommons.org/licenses/by/4.0/>`__ (Creative Commons)
 
